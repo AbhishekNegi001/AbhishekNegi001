@@ -5,7 +5,7 @@
 -      Currently Learning Java
 - 💞️ I’m looking to collaborate on any technical project which can enhance my skills
 - 📫 You can reach me ...
-      Email : abhisheknegi10000@gmail.com
+-     Email : abhisheknegi10000@gmail.com
 
 <!---
 AbhishekNegi001/AbhishekNegi001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
