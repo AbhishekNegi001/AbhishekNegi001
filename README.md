@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Abhishek Negi
 - 👀 I’m interested in new technologics , how they are implemented.
 - 🌱 I’m currently learning Data Structures and Algorithm
--      Languages I know : C, C++, Python, Java .
--      Currently Learning Java
+-      Languages I know : Python, Javascipt .
+-      Currently Learning React
 - 💞️ I’m looking to collaborate on any technical project which can enhance my skills
 - 📫 You can reach me ...
 -     Email : abhisheknegi10000@gmail.com
